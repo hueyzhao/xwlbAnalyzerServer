@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/webcrawler/CrawlerHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/webcrawler/HelloWorld.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/webcrawler/HtmlParserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/webcrawler/XwlbCrawler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/webcrawler/com/awesomehuan/vo/XwlbSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/webcrawler/vo/XwlbSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/CrawlerHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/HelloWorld.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/HtmlParserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/StartUp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/XwlbCrawler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/dao/XwlbSummaryDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/domain/XwlbSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/service/CrawlXwlbSummarService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/service/HtmlParserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/task/CrawlXwlbSummeryTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/base/CustomIface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/impl/XwlbAnalyzerThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/proxy/ThriftServerProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/util/CommonThreadPool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/util/IThreadWorker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/awesomehuan/xwlbAnalyzer/vo/XwlbSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/vo/XwlbSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/conf/database.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dataSource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/xwlb_analyzer_app_context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/awesomehuan/xwlbAnalyzer/XwlbAnalyzerServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/awesomehuan/xwlbAnalyzer/base/AbstractServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/awesomehuan/xwlbAnalyzer/service/XwlbAnalyzerServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/HelloWorld.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/iface/XwlbAnalyzerThriftService.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/proxy/ConnectionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/proxy/ConnectionProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/proxy/ConnectionProviderImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/proxy/ThriftClientProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/java/com/awesomehuan/xwlbAnalyzer/thrift/proxy/ThriftPoolableObjectFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xwlbAnalyzerClient/src/main/resources/xwlb_analyzer_client_app_context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_client/src/main/java/com/sankuai/meituan/waimai/ucenter/uc/thrift/WmUCThriftService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_client/src/main/thrift/com/sankuai/meituan/waimai/ucenter/relation/constants/WmFriendType.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_client/src/main/thrift/com/sankuai/meituan/waimai/ucenter/uc/thrift/WmUCThriftService.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_client/src/main/thrift/com/sankuai/meituan/waimai/ucenter/uc/vo/WmUserCityInfoVo.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_client/target/generated-sources/thrift/com/sankuai/meituan/waimai/ucenter/relation/constants/WmRelationBindStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_client/target/generated-sources/thrift/com/sankuai/meituan/waimai/ucenter/relation/constants/WmUserRelationImportResStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/scripts/relation/wm_user_friend_profile.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/scripts/relation/wm_user_relation_setting.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/api/MtAccountApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/dao/WmUserFriendProfile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/dao/WmUserFriendProfileDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/dao/WmUserFriendRelation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/dao/WmUserFriendRelationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/dao/WmUserRelationSettingDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/domain/WmUserFriendProfile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/domain/WmUserFriendRelation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/domain/WmUserRelationSetting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/service/MtUserRelationApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/service/WmUserRelationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/thrift/WmUserRelationThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/relation/vo/ImportRelationResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/risk/dao/WmSmsverifyRecordDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/risk/service/impl/VerifyUserHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/risk/service/impl/WmSmsverifyRecordService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/risk/thrift/impl/WmUserRiskThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/java/com/sankuai/meituan/waimai/ucenter/uc/thrift/impl/WmUCThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/resources-beta/dataSource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/resources-test/dataSource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/resources/dataSource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/resources/relation/relation_api.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/resources/waimai_service_ucenter_server_app_context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/main/resources/waimai_service_ucenter_server_app_context_stage.xml.stage">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/test/java/com/sankuai/meituan/waimai/ucenter/relation/service/MtUserRelationApiServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/test/java/com/sankuai/meituan/waimai/ucenter/relation/service/WmUserRelationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/test/java/com/sankuai/meituan/waimai/ucenter/relation/service/WmUserRelationTestDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ucenterBranches/waimai_service_ucenter_server/src/test/resources/waimai_service_ucenter_server_app_context_test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-base/src/main/java/com/sankuai/meituan/waimai/kv/domain/CPoiAttr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-ucenter/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-ucenter/src/main/java/com/sankuai/meituan/waimai/kv/key/ucenter/UCenterKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-ucenter/src/main/java/com/sankuai/meituan/waimai/kv/key/ucenter/WmUserRelationKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-ucenter/src/main/java/com/sankuai/meituan/waimai/kv/service/ucenter/UCenterKvService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-ucenter/src/main/java/com/sankuai/meituan/waimai/kv/service/ucenter/UCenterRiskKvService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c-ucenter/src/main/java/com/sankuai/meituan/waimai/kv/service/ucenter/WmUserRelationKvService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c/src/main/java/com/sankuai/meituan/waimai/kv/domain/ugc/WmPoiCommentScoreStatResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c/src/main/java/com/sankuai/meituan/waimai/kv/key/ugc/UgcKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c/src/main/java/com/sankuai/meituan/waimai/kv/key/ugc/UgcStatKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c/src/main/java/com/sankuai/meituan/waimai/kv/service/RedisOrderKvService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c/src/main/java/com/sankuai/meituan/waimai/kv/service/ugc/UgcKvService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_kv_new/group-c/src/main/java/com/sankuai/meituan/waimai/kv/service/ugc/UgcStatKvService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/constant/comment/CommentFilterType.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/constant/comment/CommentSortStrategy.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/constant/comment/CreatorType.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/constant/comment/WmCommentType.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/iface/v1/WmCommentQueryThriftService.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/param/comment/WmPoiCommentReqParam.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/param/comment/WmUgcRequestParam.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/param/comment/WmUserCommentReqParam.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/param/comment/WmUsersCommentParam.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/param/ugc/Pagination.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/result/comment/PraiseCriticFood.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/result/comment/WmCommentCountResult.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/result/comment/WmCommentResult.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/src/main/thrift/vo/result/comment/WmMyCommentResult.thrift">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/target/generated-sources/thrift/com/sankuai/meituan/waimai/service/ugc/iface/v1/WmCommentThriftService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_client/target/generated-sources/thrift/com/sankuai/meituan/waimai/service/ugc/vo/result/comment/WmCommentResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/run">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/dao/WmCommentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/dao/WmCommentLabelDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/dao/WmCommentPictureDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/dao/WmCommentStatDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/dao/WmFoodCommentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/dao/WmUgcCommentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/domain/WmFoodComment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/iface/v1/impl/WmCommentQueryThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/iface/v1/impl/WmCommentThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/iface/v1/impl/WmFoodCommentUpdateThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/mq/listener/submitcomment/messagehandler/AddFriendCommentCacheHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/mq/listener/submitcomment/messagehandler/IncrFriendCommentCountHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/outer/service/CBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/outer/service/DianPingAuditService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/outer/service/EsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/outer/service/ProductCQueryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/outer/service/UCenterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/CommentEventService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/CommentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/CommentUgcService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/DpCommentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/MyCommentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/UserCommentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/stat/CommentStatService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/service/stat/ReloadCommentStatService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/task/FillSpuIdTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/task/LoadPoiCate2EsTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/task/ReloadCachedCommentTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/task/ReloadCommentStatTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/util/CommentHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/util/UgcThreadPool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/java/com/sankuai/meituan/waimai/service/ugc/vo/FilterPoiCommentsParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/resources/dataSource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/main/resources/import_app_context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/test/java/com/sankuai/meituan/waimai/service/ugc/service/CommentServiceMockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/test/java/com/sankuai/meituan/waimai/service/ugc/thriftservice/WmCommentQueryThriftServiceMockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/test/java/com/sankuai/meituan/waimai/service/ugc/thriftservice/WmCommentQueryThriftServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ugcBranches/waimai_service_ugc_server/src/test/java/com/sankuai/meituan/waimai/service/ugc/thriftservice/WmCommentThriftServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

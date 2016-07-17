@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd
+       http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd"
+       xmlns:tx="http://www.springframework.org/schema/tx" xmlns:p="http://www.springframework.org/schema/p"
+        xmlns:util="http://www.springframework.org/schema/util"
+        >
+       <util:properties id="dataSourceProps" location="classpath:conf/database.properties"/>
+
+       <bean id="dbXwlb" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
+              <property name="driverClassName" value="#{dataSourceProps['database.driverClassName']}"/>
+              <property name="url" value="#{dataSourceProps['database.dbXwlb.url']}"/>
+              <property name="username"  value="#{dataSourceProps['database.dbXwlb.username']}" />
+              <property name="password"  value="#{dataSourceProps['database.dbXwlb.password']}" />
+              <!--<property name="initialSize" value="#{dataSourceProps['pool.waimai_api.initialPoolSize']}"/>-->
+              <!--<property name="maxIdle" value="#{dataSourceProps['pool.waimai_api.maxIdle']}"/>-->
+              <!--<property name="maxWaitMillis"  value="#{dataSourceProps['pool.waimai_api.checkoutTimeout']}"/>-->
+              <!--<property name="maxTotal" value="#{dataSourceProps['pool.waimai_api.maxTotal']}"/>-->
+              <!--<property name="validationQuery" value="#{dataSourceProps['jdbc.pool.validationQuery']}"/>-->
+              <!--<property name="timeBetweenEvictionRunsMillis"  value="#{dataSourceProps['jdbc.pool.timeBetweenEvictionRunsMillis']}"/>-->
+              <!--<property name="numTestsPerEvictionRun"  value="#{dataSourceProps['jdbc.pool.numTestsPerEvictionRun']}"/>-->
+              <!--<property name="testWhileIdle" value="true"/>-->
+              <!--<property name="testOnBorrow" value="false"/>-->
+              <!--<property name="testOnReturn" value="false"/>-->
+       </bean>
+
+       <!--  sqlSessionFactory for mybatis -->
+       <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+              <property name="dataSource" ref="dbXwlb"/>
+              <!-- 配置mybatis配置文件的位置 -->
+              <property name="configLocation" value="classpath:mybatis-config.xml"/>
+       </bean>
+       <bean id="sqlSessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
+              <constructor-arg ref="sqlSessionFactory"/>
+       </bean>
+
+       <!-- 配置扫描Mapper接口的包路径 -->
+       <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+              <!-- 如果是多个包名可用",; \t\n"中任意符号分隔开，详见：MapperScannerConfigurer[269行] -->
+              <property name="basePackage" value="com.awesomehuan.xwlbAnalyzer"/>
+              <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
+       </bean>
+       <bean id="mybatisTransactionManager"
+             class="org.springframework.jdbc.datasource.DataSourceTransactionManager"
+             p:dataSource-ref="dbXwlb"/>
+
+       <tx:advice id="mybatisAdvice" transaction-manager="mybatisTransactionManager">
+              <tx:attributes>
+                     <tx:method name="save*" propagation="REQUIRED"/>
+                     <tx:method name="insert*" propagation="REQUIRED"/>
+                     <tx:method name="add*" propagation="REQUIRED"/>
+                     <tx:method name="update*" propagation="REQUIRED"/>
+                     <tx:method name="delete*" propagation="REQUIRED"/>
+                     <tx:method name="remove*" propagation="REQUIRED"/>
+                     <tx:method name="accept*" propagation="REQUIRED"/>
+                     <tx:method name="reject*" propagation="REQUIRED"/>
+                     <tx:method name="execute*" propagation="REQUIRED"/>
+                     <tx:method name="del*" propagation="REQUIRED"/>
+                     <tx:method name="recover*" propagation="REQUIRED"/>
+                     <tx:method name="sync*" propagation="REQUIRED"/>
+                     <tx:method name="*" read-only="true"/>
+              </tx:attributes>
+       </tx:advice>
+</beans>

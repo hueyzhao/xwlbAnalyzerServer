@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../xwlbAnalyzerClient/xwlb.analyzer.client.iml" filepath="$PROJECT_DIR$/../xwlbAnalyzerClient/xwlb.analyzer.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xwlbAnalyzer.iml" filepath="$PROJECT_DIR$/xwlbAnalyzer.iml" />
+    </modules>
+  </component>
+</project>
