@@ -19,7 +19,6 @@ public class CrawlXwlbSummarService {
     @Autowired
     private XwlbSummaryDao xwlbSummaryDao;
 
-    private final String initUrl = "http://www.xwlb.com.cn/summary";
 
     public void saveLatestXwlbSummary(int pageOffset, int pageSize){
         if (pageOffset<0 || pageSize <0){

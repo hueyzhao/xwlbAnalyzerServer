@@ -8,6 +8,7 @@ public class XwlbSummary {
     private String url;
     private String title;
     private String content;
+    private long publish_time;
     private long ctime;
     private long utime;
 
@@ -59,12 +60,22 @@ public class XwlbSummary {
         this.title = title;
     }
 
+    public long getPublish_time() {
+        return publish_time;
+    }
+
+    public void setPublish_time(long publish_time) {
+        this.publish_time = publish_time;
+    }
+
     @Override
     public String toString() {
         return "XwlbSummary{" +
-                "url='" + url + '\'' +
+                "id=" + id +
+                ", url='" + url + '\'' +
                 ", title='" + title + '\'' +
                 ", content='" + content + '\'' +
+                ", publish_time=" + publish_time +
                 ", ctime=" + ctime +
                 ", utime=" + utime +
                 '}';

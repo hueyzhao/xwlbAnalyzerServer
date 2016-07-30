@@ -66,8 +66,7 @@ public class HtmlParserService {
                         long timeStamp = extractContentTimeStamp(doc);
                         xwlbSummarieSet = extractPostContent(doc);
                         for (XwlbSummary xwlbSummary : xwlbSummarieSet) {
-                            xwlbSummary.setCtime(timeStamp);
-                            xwlbSummary.setUtime(timeStamp);
+                            xwlbSummary.setPublish_time(timeStamp);
                         }
                     } catch (IOException e) {
                         e.printStackTrace();
